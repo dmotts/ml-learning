@@ -2,14 +2,14 @@
 
 We provide here a suite of Python examples that walk you through concepts in:
 
-* Classical & Deep Reinforcement Learning 
+- Classical & Deep Reinforcement Learning
 
-* Basic & Advanced Machine Learning
+- Basic & Advanced Machine Learning
 
 Usage of the examples is simple: just run the main file for each project. Each project example contains its own `README.md` file discussing the theory and applications.
 
 # Classical Reinforcement Learning
- 
+
 ### [The Multi-Armed Bandit Problem](classical_RL/multiarmed_bandit)
 
 <a href="classical_RL/multiarmed_bandits">
@@ -50,7 +50,7 @@ Usage of the examples is simple: just run the main file for each project. Each p
 <img src="basic_ML/classification/images/coverart.png" width="25%">
 </a>
 
-* Decision Tree, K-Nearest Neighbours, Logistic Regression (Gradient Descent)
+- Decision Tree, K-Nearest Neighbours, Logistic Regression (Gradient Descent)
 
 ### [Regression](basic_ML/regression)
 
@@ -58,7 +58,7 @@ Usage of the examples is simple: just run the main file for each project. Each p
 <img src="basic_ML/regression/images/coverart.png" width="25%">
 </a>
 
-* Linear Regression (Gradient Descent / Stochastic Gradient Descent)
+- Linear Regression (Gradient Descent / Stochastic Gradient Descent)
 
 ### [Unsupervised Learning](basic_ML/unsupervised)
 
@@ -66,7 +66,7 @@ Usage of the examples is simple: just run the main file for each project. Each p
 <img src="basic_ML/unsupervised/images/coverart.png" width="20%">
 </a>
 
-* K-means Clustering
+- K-means Clustering
 
 # Advanced Machine Learning
 
@@ -85,7 +85,3 @@ Usage of the examples is simple: just run the main file for each project. Each p
 <a href="advanced_ML/tree_ensembles"> 
 <img src="advanced_ML/tree_ensembles/images/coverart_boosting.png" width="30%">
 </a>
-
-### Author
-
-Anson Wong
